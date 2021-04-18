@@ -5,6 +5,7 @@
 #include <stdio.h>
 
 /* lower: преобразование c в строчную, только для ASCII */
+//Изменения ветки Мэйн
 int lower(int c)
 {
     return (c >= 'A' && c <= 'Z') ? 
